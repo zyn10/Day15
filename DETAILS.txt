@@ -1,0 +1,3 @@
+creators= Zain and Danish
+name= pills club
+first phase= splash screen, login screen, main menu
