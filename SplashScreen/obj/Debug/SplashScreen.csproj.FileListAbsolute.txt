@@ -1,0 +1,16 @@
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\bin\Debug\SplashScreen.exe.config
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\bin\Debug\SplashScreen.exe
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\bin\Debug\SplashScreen.pdb
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.Login.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.exe
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.pdb
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.Menu.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.medicine.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.customer.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.REPOSITORY.resources
+D:\SEMESTER#04\DATABASE LAB ( SIR SHEHROZ )\PHARMACY_MANAGEMENT_SYSTEM\SplashScreen\obj\Debug\SplashScreen.bill.resources
